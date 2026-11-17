@@ -5,6 +5,7 @@ The global wine industry relies heavily on both sensory evaluation and rigorous 
 By predicting whether a wine belongs to Cultivar/Class 0, 1, or 2 based strictly on its chemical profile, this project transforms raw laboratory data into actionable business intelligence for wine producers, regulatory bodies, and distributors.
 
 You can find the PDF-version of this analysis [here](https://github.com/anna-pauliina-p/Datheon_Machine_Learning_-_Data_Science_Internship/blob/main/Wine%20Classification%20and%20Business%20Intelligence%20Project.pdf).
+The source code is in the file Task1.ipynb. It uses the Wine dataset.
 
 
 # California Housing Regression & Feature Engineering
@@ -14,7 +15,7 @@ The California real estate market is characterized by diverse geographical zones
 By transforming raw census and geographic data into precise property valuation metrics, this project bridges technical machine learning performance with actionable business intelligence for real estate developers, property investment firms, and automated valuation models (AVMs).
 
 You can find the PDF-version of this analysis [here](https://github.com/anna-pauliina-p/Datheon_Machine_Learning_-_Data_Science_Internship/blob/main/Wine%20Classification%20and%20Business%20Intelligence%20Project.pdf).
-
+The source code is in the file Task2.ipynb. It uses the California housing dataset.
 
 # Predictive Customer Churn Classifier (Random Forest & XGBoost)
 
@@ -23,3 +24,4 @@ Customer churn is a critical challenge in the telecommunications industry, direc
 By identifying high-risk subscribers prior to cancellation, this model empowers retention teams, marketing departments, and customer success units to deploy targeted intervention strategies, optimize retention budgets, and reduce overall churn rates.
 
 You can find the PDF-version of this analysis [here](https://github.com/anna-pauliina-p/Datheon_Machine_Learning_-_Data_Science_Internship/blob/main/Predictive%20Customer%20Churn%20Classifier.pdf).
+The source code is in the file Task3.ipynb. It uses the Telco Customer Churn dataset.
