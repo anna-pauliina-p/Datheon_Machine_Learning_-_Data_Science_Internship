@@ -14,3 +14,10 @@ The California real estate market is characterized by diverse geographical zones
 By transforming raw census and geographic data into precise property valuation metrics, this project bridges technical machine learning performance with actionable business intelligence for real estate developers, property investment firms, and automated valuation models (AVMs).
 
 You can find the PDF-version of this analysis [here](https://github.com/anna-pauliina-p/Datheon_Machine_Learning_-_Data_Science_Internship/blob/main/Wine%20Classification%20and%20Business%20Intelligence%20Project.pdf).
+
+
+# Predictive Customer Churn Classifier (Random Forest & XGBoost)
+
+Customer churn is a critical challenge in the telecommunications industry, directly impacting revenue and customer lifetime value (LTV). This project leverages ensemble machine learning models (Random Forest and XGBoost) on telecom subscription records to predict whether a customer is likely to churn. 
+
+By identifying high-risk subscribers prior to cancellation, this model empowers retention teams, marketing departments, and customer success units to deploy targeted intervention strategies, optimize retention budgets, and reduce overall churn rates.
