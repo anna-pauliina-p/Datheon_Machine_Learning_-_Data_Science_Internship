@@ -21,3 +21,5 @@ You can find the PDF-version of this analysis [here](https://github.com/anna-pau
 Customer churn is a critical challenge in the telecommunications industry, directly impacting revenue and customer lifetime value (LTV). This project leverages ensemble machine learning models (Random Forest and XGBoost) on telecom subscription records to predict whether a customer is likely to churn. 
 
 By identifying high-risk subscribers prior to cancellation, this model empowers retention teams, marketing departments, and customer success units to deploy targeted intervention strategies, optimize retention budgets, and reduce overall churn rates.
+
+You can find the PDF-version of this analysis [here](https://github.com/anna-pauliina-p/Datheon_Machine_Learning_-_Data_Science_Internship/blob/main/Predictive%20Customer%20Churn%20Classifier.pdf).
